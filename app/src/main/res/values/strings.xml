@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Youtube</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="content">Android 7.1 is on the Google Pixel and the Android Beta Program can install the Developer Preview on the Nexus 5X, Nexus 6P, and Pixel C right now</string>
+
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\My\Android\FancyUI\Youtube\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\My\Android\FancyUI\Youtube\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_fff18bb2078430cb938cf76f63dd84fc5561a1ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\My\Android\FancyUI\Youtube\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\My\Android\FancyUI\Youtube\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_bf48a7233cce476406e414e9d63b9b91efd3d830\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\My\Android\FancyUI\Youtube\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\My\Android\FancyUI\Youtube\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_f059a47d76a0564a473f23a2d4e65501db75fe20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\My\Android\FancyUI\Youtube\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\My\Android\FancyUI\Youtube\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_9c352e020428a6c4c3b9cb95bda6297653ce7f4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Win7\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\My\Android\FancyUI\Youtube\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_8e21a25dfe3568f5eeb2021ece433a04ad2abbda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\My\Android\FancyUI\Youtube\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c033441b19c520f0a30faaa3cb3d60b03ae9b55b">
+        <dex dex="E:\My\Android\FancyUI\Youtube\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eef6b8d156f8bc7ca52179ba10b6811892bb2e0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\My\Android\FancyUI\Youtube\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\My\Android\FancyUI\Youtube\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_7ab0dc3005507473a61e49bcc524d50311ae7552\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\My\Android\FancyUI\Youtube\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5ff10b4a9fba27b70c436734c0972333571eda4">
+        <dex dex="E:\My\Android\FancyUI\Youtube\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b830ef51b0c47978dbebff79fe9f05a15e0a5e1f\classes.dex" />
+    </item>
+
+</items>
